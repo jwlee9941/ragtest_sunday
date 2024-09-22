@@ -1,0 +1,12 @@
+streamlit==1.38.0
+langchain==0.2.14 #Python downgrading to 3.11 and then running the following command: #pip install --upgrade langchain 
+langchain-community #pip install langchain-community(IMPORTANT)                                                                             
+langchain_core==0.3.0
+langchain-openai  #pip install langchain-openai                                                                                            
+langchain_experimental #pip install langchain_experimental 
+langchain_google_genai #pip install langchain_google_genai                                                                                 
+faiss-cpu
+transformers
+chromadb
+tiktoken
+sentence-transformers #pip install sentence-transformers
